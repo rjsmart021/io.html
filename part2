@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <title>Classic Chocolate Chip Cookies"</title>
+    <p>Description:The world's most famour chocolate chip cookies. They are yummy!</p>
+    <title>Ingredients</title>
+    <p>1 cup (2 sticks) unsalted butter, softened</p>
+    <p>3/4 cup granulated sugar</p>
+    <p>3/4 cup packed brown sugarz</p>
+    <p>1 teaspoon vanilla extract</p>
+    <p>2 large eggs</p>
+    <p>2 1/4 cups all-purpose flour</p>
+    <p>1 teaspoon baking soda</p>
+    <p>1/2 teaspoon salt</p>
+    <p>2 cups semisweet chocolate chips</p>
+    <p>1 cup chopped nuts (optional)</p>
+    <title>Steps:</title>
+    <a href="test.html"></a>
+    <p>1.Preheat the oven to 375°F (190°C). Line baking sheets with parchment paper or silicone baking mats.</p>
+    <p>2.In a large mixing bowl, cream together the softened butter, granulated sugar, brown sugar, and vanilla extract until light and fluffy.</p>
+    <p>3.Add the eggs, one at a time, beating well after each addition.</p>
+    <p>4.In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.</p>
+    <p>5.Stir in the chocolate chips and chopped nuts (if using) until evenly distributed throughout the dough.</p>
+    <p>6.Drop rounded tablespoons of dough onto the prepared baking sheets, spacing them about 2 inches apart.</p>
+    <p>7.Bake in the preheated oven for 9 to 11 minutes, or until the edges are golden brown.</p>
+    <p>8.Remove from the oven and allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely.</p>
+</body>
+</html>
+2. Hyperlinks and Images to Recipe
+<h2>Absolute URLs</h2>
+<a href=">https://www.ghirardelli.com/recipes/classic-chocolate-chip-cookies-rec1016"></a
+<a href=">https://www.google.com/imgres?imgurl=https%3A%2F%2Fhandletheheat.com%2Fwp-content%2Fuploads%2F2020%2F10%2FBAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9-637x637-1.jpg&tbnid=F656bdVNvesEZM&vet=1&imgrefurl=https%3A%2F%2Fhandletheheat.com%2Fbakery-style-chocolate-chip-cookies%2F&docid=yq2zcTNtVgAdsM&w=637&h=637&itg=1&source=sh%2Fx%2Fim%2Fm1%2F1&kgs=f00a7f58d040a61f&shem=abme%2Cssim%2Ctrie"></a
+
+<p>and Images to Recipe</p>
+<p>Objective: The aim of this assignment is to practice creating hyperlinks and inserting images in HTML.</p>
+<p>Task 1: Creating Hyperlinks Now, add a hyperlink to an actual recipe URL for the "Classic Chocolate Chip Cookies" recipe using this Recipe Url: https://www.ghirardelli.com/recipes/classic-chocolate-chip-cookies-rec1016. </p>
+<p>Expected Outcome: Recreate the hyperlinks using the copied url, ensuring they function as intended.</p>
+<p>Task 2: Inserting Images Find an image of any yummy chocolate chip cookies through a Google image search. Include the image URL in your HTML document.</p>
+<p>Expected Outcome: Insert the image using the copied url, ensuring it displays correctly.</p>
+
+<p>Don't forget to enjoy your Class Chocolate Chip Cookies with a tall glass of milk &ndash; the perfect combination!</p>
